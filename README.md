@@ -28,5 +28,5 @@ KiCAD library and footprint is ready to use [on Github!](https://github.com/hami
 # KiCad Library & Footprint Preview
 ![POGO ISP Micro KiCad library](https://raw.githubusercontent.com/aut0mat3d/POGO-ISP-Micro/master/Images/library.png "POGO ISP Micro KiCad library")![POGO ISP Micro KiCad footprint](https://raw.githubusercontent.com/aut0mat3d/POGO-ISP-Micro/master/Images/footprint.png "POGO ISP Micro KiCad footprint")
 
-# How can I buy the original Design?
-<a href="https://www.tindie.com/stores/iohippo/?ref=offsite_badges&utm_source=sellers_iohippo&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png"></a>
+# How can I buy the original Design from hamityanik?
+https://www.tindie.com/stores/iohippo/?ref=offsite_badges&utm_source=sellers_iohippo&utm_medium=badges&utm_campaign=badge_small
