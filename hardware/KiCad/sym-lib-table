@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name library)(type Legacy)(uri ${PROJECTS_PATH}/AVR_ISP_With_POGO_Pin/library/library.lib)(options "")(descr ""))
+  (lib (name AVR_ISP_With_POGO_Pin-rescue)(type Legacy)(uri ${KIPRJMOD}/AVR_ISP_With_POGO_Pin-rescue.lib)(options "")(descr ""))
 )

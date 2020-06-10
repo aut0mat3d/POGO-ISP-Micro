@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:AVR_ISP_With_POGO_Pin-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L library:CONN_01X06 P2
+L AVR_ISP_With_POGO_Pin-rescue:CONN_01X06-library P2
 U 1 1 587111A5
 P 7150 3000
 F 0 "P2" H 7150 3350 50  0000 C CNN
@@ -26,7 +25,7 @@ F 3 "" H 7150 3000 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L library:CONN_02X03 P1
+L AVR_ISP_With_POGO_Pin-rescue:CONN_02X03-library P1
 U 1 1 587111D4
 P 4950 2950
 F 0 "P1" H 4950 3150 50  0000 C CNN
@@ -117,7 +116,7 @@ F 3 "" H 4900 4000 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L library:Led_Small D1
+L AVR_ISP_With_POGO_Pin-rescue:Led_Small-library D1
 U 1 1 5871164C
 P 5100 4000
 F 0 "D1" H 5050 4125 50  0000 L CNN
@@ -136,7 +135,7 @@ Wire Wire Line
 Text Label 5800 4000 2    60   ~ 0
 GND
 $Comp
-L library:Switch_SPST S1
+L AVR_ISP_With_POGO_Pin-rescue:Switch_SPST-library S1
 U 1 1 5871179A
 P 5000 4600
 F 0 "S1" H 5000 4750 60  0000 C CNN
