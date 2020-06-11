@@ -10,5 +10,4 @@ kikit panelize grid --gridsize  3 6 --mousebites 0.5 0.75 0 ./AVR_ISP_With_POGO_
 Gerber output:
 mkdir gerbers_panelized
 rm ./gerbers_panelized/*
-https://github.com/aut0mat3d/POGO-ISP-Micro/tree/master/hardware/KiCad/gerbers_panelized
 kikit export gerber ./AVR_ISP_With_POGO_Pin_panelized.kicad_pcb ./gerbers_panelized
