@@ -1,0 +1,22 @@
+Drill report for ./AVR_ISP_With_POGO_Pin.kicad_pcb
+Created on Thu Jun 11 10:44:15 2020
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'AVR_ISP_With_POGO_Pin-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.30mm  0.012"  (13 holes)
+
+    Total plated holes count 13
+
+
+Drill file 'AVR_ISP_With_POGO_Pin-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
