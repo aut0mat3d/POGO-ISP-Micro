@@ -1,0 +1,6 @@
+Panelize:
+kikit panelize grid --gridsize  3 6 --vcuts ./AVR_ISP_With_POGO_Pin.kicad_pcb AVR_ISP_With_POGO_Pin_panelized.kicad_pcb
+
+Gerber output:
+mkdir gerbers_panelized
+kikit export gerber ./AVR_ISP_With_POGO_Pin_panelized.kicad_pcb ./gerbers_panelized
